@@ -11,3 +11,8 @@
 #welcomeMessage {
 	font-size: 80px;
 }
+
+.grayscale {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
