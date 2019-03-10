@@ -22,6 +22,20 @@
 		1px 1px 0 #000;	
 }
 
+#webDevBanner {
+	background-image: url("../images/webDevImg.jpeg");
+	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+	color: white;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
 #welcomeMessage {
 	font-size: 80px;
 }
